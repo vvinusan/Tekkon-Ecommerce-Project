@@ -2,7 +2,8 @@
 
 Project for Wearable Tech that incorporates all the necessary components of an e-commerce
 
-> **NOTE: only partial functionality available as database access is not included for security concerns** `(If you would like to see project's full functionality, simply reach out @ www.linkedin.com/in/vinusan-velautham)`
+> **NOTE: only partial functionality available as database access is not included for security concerns**
+> `(If you would like to see project's full functionality, simply reach out @ www.linkedin.com/in/vinusan-velautham)`
 
 ---
 
