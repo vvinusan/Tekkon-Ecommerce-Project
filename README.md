@@ -5,6 +5,12 @@ Project for Wearable Tech that incorporates all the necessary components of an e
 > **NOTE: only partial functionality available as database access is not included for security concerns**
 > `(If you would like to see project's full functionality, simply reach out @ www.linkedin.com/in/vinusan-velautham)`
 
+Co-creators
+* https://github.com/georgebaaklini
+* https://github.com/stephen-gloade
+* https://github.com/JosephLlamas
+
+
 ---
 
 ## Initial setup
